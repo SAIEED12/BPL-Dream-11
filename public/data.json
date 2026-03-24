@@ -1,0 +1,153 @@
+[
+    {
+    "playerImage": "https://i.ibb.co.com/RTHY0jKn/9c234e10-e911-11ef-bdbc-47ce167e574a.jpg",
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "rating": 9.1,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "playerType": "Bowler",
+    "price": 1370000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/x8hR5Q8F/AFP-20241122-36-N39-GM-v1-High-Res-Cricket-Aus-Ind-1733131187.webp",
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "rating": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "playerType": "Bowler",
+    "price": 1450000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/Q3hL0b04/qqaprcjo-trent-boult-625x300-15-June-24.webp",
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "rating": 9.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "playerType": "Bowler",
+    "price": 1330000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/wF5K27St/steve-smith.jpg",
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "rating": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "playerType": "Batsman",
+    "price": 1450000
+  },
+  {
+      "playerImage": "https://i.ibb.co.com/DHnQ2v0k/duplessisheadshot-min.jpg",
+      "playerName": "Faf du Plessis",
+      "playerCountry": "South Africa",
+      "rating": 8.9,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm legbreak",
+      "playerType": "Batsman",
+      "price": 1200000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/BVY8Dqs4/the-35-year-old-williamson-signs-off-as-new-zealands-second-highest-run-scorer-in-mens-t20is.webp",
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "rating": 9.1,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerType": "Batsman",
+    "price": 1300000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/RGdzJ2XF/7992d7c9ecf9aaf1e8c353c34b92c41e.jpg",
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "rating": 9.0,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "playerType": "All-Rounder",
+    "price": 1250000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/R4PjhcBM/bcci-removes-rohit-sharma-from-odi-captaincy-1759580782-b.jpg",
+    "playerName": "Rohit Sharma",
+    "playerCountry": "India",
+    "rating": 9.2,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerType": "Batsman",
+    "price": 1380000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/G4xjJnjm/Whats-App-Image-2024-07-24-at-14-38-38.webp",
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "rating": 9.0,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "playerType": "Batsman",
+    "price": 1320000
+  },
+  {
+      "playerImage": "https://i.ibb.co.com/7JjZRQ1t/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.webp",
+      "playerName": "Virat Kohli",
+      "playerCountry": "India",
+      "rating": 9.5,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm medium",
+      "playerType": "Batsman",
+      "price": 1500000
+    },
+    {
+        "playerImage": "https://i.ibb.co.com/vvd8D6GZ/12-2.jpg",
+        "playerName": "Babar Azam",
+        "playerCountry": "Pakistan",
+        "rating": 9.3,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "playerType": "Batsman",
+        "price": 1400000
+    },
+    {
+        "playerImage": "https://i.ibb.co.com/FbXXtYgC/Quinton-de-Kock.png",
+        "playerName": "Quinton de Kock",
+        "playerCountry": "South Africa",
+        "rating": 9.0,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Wicketkeeper",
+    "playerType": "Wicketkeeper",
+    "price": 1280000
+},
+{
+    "playerImage": "https://i.ibb.co.com/SDKc3M34/joe-root-walks-off-to-a-standing-ovation-after-guiding-england-to-victory.webp",
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "rating": 9.2,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerType": "Batsman",
+    "price": 1350000
+},
+
+{
+  "playerImage": "https://i.ibb.co.com/fVSctTv0/4ef905d0-82e1-11ef-93fc-47e7b6e6a87f.jpg",
+  "playerName": "Ben Stokes",
+  "playerCountry": "England",
+  "rating": 9.3,
+  "battingStyle": "Left-hand bat",
+  "bowlingStyle": "Right-arm fast-medium",
+  "playerType": "All-Rounder",
+  "price": 1420000
+},
+  {
+    "playerImage": "https://i.ibb.co.com/20nJ2v29/kagiso.webp",
+    "playerName": "Kagiso Rabada",
+    "playerCountry": "South Africa",
+    "rating": 9.2,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "playerType": "Bowler",
+    "price": 1390000
+  }
+]
