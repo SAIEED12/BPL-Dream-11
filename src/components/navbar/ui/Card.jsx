@@ -1,6 +1,9 @@
 import React, { useState } from "react";
 import { FaUser, FaFlag } from "react-icons/fa";
 import { toast, Flip } from "react-toastify";
+
+
+
 const Card = ({
   player,
   setCoin,
@@ -9,6 +12,8 @@ const Card = ({
   selectedPlayers,
 }) => {
   const [isSelected, setIsSelected] = useState(false);
+
+  
 
   const handleChoosePlayer = () => {
     let newCoin = coin - player.price;
@@ -42,6 +47,7 @@ const Card = ({
     setIsSelected(true);
     setSelectedPlayers([...selectedPlayers, player]);
   };
+  
   return (
     <div className="card bg-base-100 h-130 w-100 shadow-sm">
       <figure>
@@ -57,7 +63,7 @@ const Card = ({
             <FaFlag />
             <p>{player.playerCountry}</p>
           </div>
-          <button className="btn">{player.playerType}</button>
+          <button className="btn bg-[#3ee095]">{player.playerType}</button>
         </div>
         <div className="divider"></div>
 

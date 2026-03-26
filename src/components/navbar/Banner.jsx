@@ -26,7 +26,7 @@ const Banner = () => {
           </p>
 
           <div className="pt-4">
-            <button className="bg-[#E7FE29] hover:bg-[#d4e924] text-black font-bold py-3 px-8 rounded-2xl border-8  transition-all active:scale-95 cursor-pointer ring-1 ring-[#E7FE29]">
+            <button className="bg-[#3ee095] hover:bg-[#3ee094de] text-black font-bold py-3 px-8 rounded-2xl border-8  transition-all active:scale-95 cursor-pointer ring-1 ring-[#3ee095]">
               Claim Free Credit
             </button>
           </div>
