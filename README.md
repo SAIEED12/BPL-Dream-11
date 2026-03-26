@@ -1,16 +1,47 @@
-# React + Vite
+🏏 BPL Dream 11 Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based fantasy cricket web application where users can build their own team by selecting players within budget constraints. This project simulates a real-world fantasy sports platform with dynamic UI updates and an interactive user experience.
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://bpl-dream-11-demo.netlify.app/
 
-## React Compiler
+📌 Features
+🏏 Select players to build your own team
+💰 Budget management system
+🔄 Real-time UI updates
+❌ Prevent duplicate player selection
+📱 Fully responsive design
+⚡ Smooth and interactive user experience
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Technologies Used
+-React.js
+-Tailwind CSS
+-DaisyUI
+-JavaScript (ES6+)
+-JSON Data
 
-## Expanding the ESLint configuration
+⚙️ Installation & Setup
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repository:
+
+git clone https://github.com/your-username/bpl-dream-11-demo.git
+
+Navigate to the project folder:
+
+cd bpl-dream-11-demo
+
+Install dependencies:
+
+npm install
+
+Run the project:
+
+npm run dev
+
+🎯 Learning Objectives
+-Understanding React component structure
+-Managing state and props effectively
+-Implementing real-world logic (budget & selection)
+-Building responsive UI with Tailwind CSS
+-Creating reusable components
