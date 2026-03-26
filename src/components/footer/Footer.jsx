@@ -7,7 +7,7 @@ const Footer = () => {
  
       <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 w-11/12 max-w-5xl">
         <div className="bg-white/10 backdrop-blur-md border border-white/20 p-2 rounded-3xl">
-          <div className="bg-white rounded-2xl py-12 px-6 text-center shadow-xl flex flex-col items-center">
+          <div className="bg-amber-50 rounded-2xl py-12 px-6 text-center shadow-xl flex flex-col items-center">
             <h2 className="text-3xl font-bold text-black mb-2">Subscribe to our Newsletter</h2>
             <p className="text-gray-500 mb-8">Get the latest updates and news right in your inbox!</p>
             
@@ -17,7 +17,7 @@ const Footer = () => {
                 placeholder="Enter your email" 
                 className="flex-1 px-6 py-3 border rounded-xl outline-none focus:ring-2 ring-yellow-400"
               />
-              <button className="bg-linear-to-r from-pink-400 to-yellow-500 text-black font-bold px-8 py-3 rounded-xl hover:opacity-90 transition">
+              <button className="bg-linear-to-r from-pink-400 to-yellow-500 text-black font-bold px-8 py-3 rounded-xl hover:opacity-90 transition cursor-pointer">
                 Subscribe
               </button>
             </div>
@@ -60,7 +60,7 @@ const Footer = () => {
                 placeholder="Enter your email" 
                 className="w-full px-4 py-3 bg-white text-black outline-none"
               />
-              <button className="bg-linear-to-r from-pink-400 to-yellow-500 px-4 py-3 text-black font-bold">
+              <button className="bg-linear-to-r from-pink-400 to-yellow-500 px-4 py-3 text-black font-bold cursor-pointer hover:opacity-90">
                 Subscribe
               </button>
             </div>
