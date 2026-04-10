@@ -1,3 +1,4 @@
+
 🏏 BPL Dream 11 Demo
 
 A React-based fantasy cricket web application where users can build their own team by selecting players within budget constraints. This project simulates a real-world fantasy sports platform with dynamic UI updates and an interactive user experience.
@@ -6,3 +7,5 @@ A React-based fantasy cricket web application where users can build their own te
 
 🔗 https://bpl-dream-11-demo.netlify.app/
 
+![bpl1](https://github.com/user-attachments/assets/6c8d96a4-1337-4352-9875-06567a1498f7)
+![bpl2](https://github.com/user-attachments/assets/1ac2c517-0737-48e8-a5b0-22bb0c9f8792)
